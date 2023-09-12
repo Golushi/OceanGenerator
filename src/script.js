@@ -11,8 +11,6 @@ import waterFragmentShader from "./shaders/water/fragment.glsl";
 const gui = new dat.GUI({ width: 340 });
 const debugObject = {};
 
-gui.hide();
-
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
 
