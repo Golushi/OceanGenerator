@@ -5,8 +5,9 @@ Le site est disponible en ligne ici : [Ocean](https://29-raging-sea-opal.vercel.
 Technologies utilisées
 
     Node.js
-    Vite
+    Vitejs
     Three.js
+    JavaScript
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
